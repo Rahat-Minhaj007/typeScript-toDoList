@@ -1,0 +1,20 @@
+.form input {
+    width: 17rem;
+    height: 2.5rem;
+    padding: 8px;
+    border-radius: 2px;
+    border: 1px solid purple;
+    outline: none;
+}
+
+.btn-contact {
+    height: 2.5rem;
+    width: 5rem;
+    border: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    border-radius: 2px;
+    margin-left: 3px;
+}
